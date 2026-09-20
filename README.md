@@ -23,4 +23,4 @@
 
 ## 📬 HOW TO REACH ME
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) : oblilic3@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) : oblilic93@gmail.com
